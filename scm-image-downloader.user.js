@@ -3,6 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.2
 // @description  Download image files from specified websites with bulk download option
+// @updateURL    https://github.com/SecretCandyMan/SCM-Image-Downloader/raw/refs/heads/main/scm-image-downloader.user.js
+// @downloadURL  https://github.com/SecretCandyMan/SCM-Image-Downloader/raw/refs/heads/main/scm-image-downloader.user.js
 // @author       SecretCandyMan
 // @match        *://*/*
 // @grant        GM_download
